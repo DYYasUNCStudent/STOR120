@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Lectures/Class[[:space:]]9[[:space:]]Functions/Twitter.csv filter=lfs diff=lfs merge=lfs -text
