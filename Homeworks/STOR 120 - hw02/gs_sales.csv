@@ -1,10 +1,3 @@
-box ID,cookie name,count sold,price per box ($)
-53686,samoas,22,5
-57181,tagalongs,47,5
-25274,s'mores,12,6
-48800,do-si-dos,11,5
-26187,trefoils,106,5
-57930,thin mints,312,5
-52357,lemon-ups,25,5
-43566,toffee-tastic,9,6
-26778,samoas,99,5
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4aa83fdaa04e8dd1708341de6362c21f1ade9d4afcb2f253ee3bda07cd6b42b
+size 234
